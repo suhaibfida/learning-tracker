@@ -22,4 +22,4 @@ Vectorless RAG:
 
 https://medium.com/@visrow/what-is-pageindex-how-to-build-a-vectorless-rag-system-no-embeddings-no-vector-db-dc097fae3071
 
-https://youtu.be/f3zHina9MTo?si=g7EZDak1SWo1vu2L | Vectorless RAG.
+https://youtu.be/f3zHina9MTo?si=g7EZDak1SWo1vu2L
