@@ -18,7 +18,7 @@ Chunking Strategies.
 
 https://www.trychroma.com/research/evaluating-chunking 
 
-Vectorless RAG :
+Vectorless RAG
 
 https://medium.com/@visrow/what-is-pageindex-how-to-build-a-vectorless-rag-system-no-embeddings-no-vector-db-dc097fae3071
 
