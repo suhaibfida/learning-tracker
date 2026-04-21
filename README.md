@@ -11,6 +11,8 @@ https://www.pinecone.io/learn/vector-embeddings/
 
 https://developers.openai.com/api/docs/guides/embeddings
 
+https://ai.google.dev/gemini-api/docs/embeddings
+
 # 20/04/2026
 RAG [Retrieval-Augmented Generation] :
 
