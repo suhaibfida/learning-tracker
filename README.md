@@ -12,7 +12,6 @@ https://medium.com/@arjunprakash027/understanding-cosine-similarity-a-key-concep
 
 
 # 21/04/2026
-RAG :
 
 Vector embeddings.
 
