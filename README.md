@@ -1,6 +1,19 @@
 # Learning-tracker
 What I’m learning . . . . .
 
+# 01/05/2026
+
+Elliptic curve 
+
+https://www.youtube.com/watch?v=NF1pwjL9-DE
+
+
+
+
+
+
+
+
 # 24/04/2026
 Cosine similarity.
 
